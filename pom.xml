@@ -16,7 +16,7 @@
         <slf4j-api.version>1.7.30</slf4j-api.version>
         <log4j-core.version>2.13.3</log4j-core.version>
         <commons-lang3.version>3.10</commons-lang3.version>
-        <protobuf-java.version>3.12.2</protobuf-java.version>
+        <protobuf-java.version>3.16.3</protobuf-java.version>
         <junit.version>5.6.2</junit.version>
     </properties>
 
